@@ -76,4 +76,6 @@ https://takutosquare00-max.github.io/hiragana-nazorigaki/
 
 ## 更新した場合
 
-それぞれのリポジトリで `git add . && git commit -m "更新" && git push` でGitHub Pagesに反映されます。
+- **トップページ:** `school/文字学習/` 内で `git add . && git commit -m "更新" && git push`
+- **ひらがな:** `school/ひらがな/1.ひらがな/` 内で同様に push
+- **カタカナ・漢字:** 作成後、それぞれのリポジトリで push

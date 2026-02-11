@@ -21,7 +21,7 @@ GitHub Pages でホスティング済み。**Macが起動していなくても**
 
 | 学習名 | URL |
 |--------|-----|
-| カタカナ なぞりがき | （準備中） |
+| カタカナ ひつじゅん なぞりがき | <https://takutosquare00-max.github.io/katakana-nazorigaki/> |
 
 ---
 
@@ -70,6 +70,7 @@ GitHub Pages でホスティング済み。**Macが起動していなくても**
 ```
 https://takutosquare00-max.github.io/moji-gakushu/
 https://takutosquare00-max.github.io/hiragana-nazorigaki/
+https://takutosquare00-max.github.io/katakana-nazorigaki/
 ```
 
 ---
@@ -78,4 +79,5 @@ https://takutosquare00-max.github.io/hiragana-nazorigaki/
 
 - **トップページ:** `school/文字学習/` 内で `git add . && git commit -m "更新" && git push`
 - **ひらがな:** `school/ひらがな/1.ひらがな/` 内で同様に push
-- **カタカナ・漢字:** 作成後、それぞれのリポジトリで push
+- **カタカナ:** `school/ひらがな/2.カタカナ/` 内で `git add . && git commit -m "更新" && git push`
+- **漢字:** 作成後、それぞれのリポジトリで push

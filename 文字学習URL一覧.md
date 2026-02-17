@@ -29,7 +29,6 @@ GitHub Pages でホスティング済み。**Macが起動していなくても**
 
 | 学習名 | URL |
 |--------|-----|
-| 漢字 筆順・なぞり書き（学年別） | <https://takutosquare00-max.github.io/kanji-practice/> |
 | 漢字 N5（一年生・80字） | <https://takutosquare00-max.github.io/kanji-practice/1.一年生-N5/> |
 | 漢字 N4（二年生・160字） | <https://takutosquare00-max.github.io/kanji-practice/2.二年生-N4-5/> |
 | 漢字 N4（三年生・200字） | <https://takutosquare00-max.github.io/kanji-practice/3.三年生-N4/> |

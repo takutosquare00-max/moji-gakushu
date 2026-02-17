@@ -25,42 +25,18 @@ GitHub Pages でホスティング済み。**Macが起動していなくても**
 
 ---
 
-## 漢字 N5
+## 漢字
 
 | 学習名 | URL |
 |--------|-----|
-| 漢字 N5 | （準備中） |
-
----
-
-## 漢字 N4
-
-| 学習名 | URL |
-|--------|-----|
-| 漢字 N4 | （準備中） |
-
----
-
-## 漢字 N3
-
-| 学習名 | URL |
-|--------|-----|
-| 漢字 N3 | （準備中） |
-
----
-
-## 漢字 N2
-
-| 学習名 | URL |
-|--------|-----|
+| 漢字 筆順・なぞり書き（学年別） | <https://takutosquare00-max.github.io/kanji-practice/> |
+| 漢字 N5（一年生・80字） | <https://takutosquare00-max.github.io/kanji-practice/1.一年生-N5/> |
+| 漢字 N4（二年生・160字） | <https://takutosquare00-max.github.io/kanji-practice/2.二年生-N4-5/> |
+| 漢字 N4（三年生・200字） | <https://takutosquare00-max.github.io/kanji-practice/3.三年生-N4/> |
+| 漢字 N4（四年生・200字） | <https://takutosquare00-max.github.io/kanji-practice/4.四年生-N4/> |
+| 漢字 N3（五年生・185字） | <https://takutosquare00-max.github.io/kanji-practice/5.五年生-N3/> |
+| 漢字 N3（六年生・181字） | <https://takutosquare00-max.github.io/kanji-practice/6.六年生-N3-2/> |
 | 漢字 N2 | （準備中） |
-
----
-
-## 漢字 N1
-
-| 学習名 | URL |
-|--------|-----|
 | 漢字 N1 | （準備中） |
 
 ---
@@ -71,13 +47,14 @@ GitHub Pages でホスティング済み。**Macが起動していなくても**
 https://takutosquare00-max.github.io/moji-gakushu/
 https://takutosquare00-max.github.io/hiragana-nazorigaki/
 https://takutosquare00-max.github.io/katakana-nazorigaki/
+https://takutosquare00-max.github.io/kanji-practice/
 ```
 
 ---
 
 ## 更新した場合
 
-- **トップページ:** `school/文字学習/` 内で `git add . && git commit -m "更新" && git push`
+- **トップページ:** `school/moji-gakushu/` 内で `git add . && git commit -m "更新" && git push`
 - **ひらがな:** `school/ひらがな/1.ひらがな/` 内で同様に push
 - **カタカナ:** `school/ひらがな/2.カタカナ/` 内で `git add . && git commit -m "更新" && git push`
 - **漢字:** 作成後、それぞれのリポジトリで push

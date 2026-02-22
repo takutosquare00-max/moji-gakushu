@@ -53,7 +53,11 @@ https://takutosquare00-max.github.io/kanji-practice/
 
 ## 更新した場合
 
-- **トップページ:** `school/moji-gakushu/` 内で `git add . && git commit -m "更新" && git push`
+- **トップページ（moji-gakushu）:** `school/moji-gakushu/` 内で `git add . && git commit -m "更新" && git push`
 - **ひらがな:** `school/ひらがな/1.ひらがな/` 内で同様に push
 - **カタカナ:** `school/ひらがな/2.カタカナ/` 内で `git add . && git commit -m "更新" && git push`
-- **漢字:** 作成後、それぞれのリポジトリで push
+- **漢字:** `school/kanji-deploy/` 内で以下を実行
+  ```bash
+  cp -r ../ひらがな/3.漢字/1.一年生-N5 ../ひらがな/3.漢字/2.二年生-N4-5 ../ひらがな/3.漢字/3.三年生-N4 ../ひらがな/3.漢字/4.四年生-N4 ../ひらがな/3.漢字/5.五年生-N3 ../ひらがな/3.漢字/6.六年生-N3-2 .
+  git add . && git commit -m "教材更新" && git push
+  ```
